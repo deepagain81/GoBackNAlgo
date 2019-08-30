@@ -1,0 +1,278 @@
+vmode: 1
+
+Input arguments are the following:
+receivePort: 6000
+sendToClient-Port: 6001
+sendToServer-Port: 6002
+clientName: localhost
+serverName: localhost
+seed: 0
+dropProb: 0
+verboseFlag: 1
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 0 length: 30
+data: Wow. Never ceases to amaze me.
+
+Random value: 0.197551 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 0 length: 30
+data: Wow. Never ceases to amaze me.
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 1 length: 30
+data:  What cologne you gonna go wit
+
+Random value: 0.335223 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 1 length: 30
+data:  What cologne you gonna go wit
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 0 length: 0
+data: null
+
+Random value: 0.76823 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 0 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 1 length: 0
+data: null
+
+Random value: 0.277775 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 1 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 2 length: 30
+data: h? London Gentleman, or wait. 
+
+Random value: 0.55397 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 2 length: 30
+data: h? London Gentleman, or wait. 
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 3 length: 30
+data: No, no, no. Hold on. Blackbear
+
+Random value: 0.477397 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 3 length: 30
+data: No, no, no. Hold on. Blackbear
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 2 length: 0
+data: null
+
+Random value: 0.628871 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 2 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 3 length: 0
+data: null
+
+Random value: 0.364784 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 3 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 4 length: 30
+data: d's Delight. Brian, I'm gonna 
+
+Random value: 0.513401 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 4 length: 30
+data: d's Delight. Brian, I'm gonna 
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 5 length: 30
+data: be honest with you, that smell
+
+Random value: 0.95223 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 5 length: 30
+data: be honest with you, that smell
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 4 length: 0
+data: null
+
+Random value: 0.916195 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 4 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 5 length: 0
+data: null
+
+Random value: 0.635712 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 5 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 6 length: 30
+data: s like pure gasoline. They've 
+
+Random value: 0.717297 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 6 length: 30
+data: s like pure gasoline. They've 
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 6 length: 0
+data: null
+
+Random value: 0.141603 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 6 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 7 length: 30
+data: done studies, you know. 60% of
+
+Random value: 0.606969 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 7 length: 30
+data: done studies, you know. 60% of
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 7 length: 0
+data: null
+
+Random value: 0.0163006 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 7 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 0 length: 30
+data:  the time, it works every time
+
+Random value: 0.242887 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 0 length: 30
+data:  the time, it works every time
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 0 length: 0
+data: null
+
+Random value: 0.137232 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 0 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 1 length: 30
+data: . I saw that. Brick killed a g
+
+Random value: 0.804177 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 1 length: 30
+data: . I saw that. Brick killed a g
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 1 length: 0
+data: null
+
+Random value: 0.156679 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 1 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 1  seqnum: 2 length: 29
+data: uy. Did you throw a trident?
+
+
+Random value: 0.400944 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 1  seqnum: 2 length: 29
+data: uy. Did you throw a trident?
+
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 0  seqnum: 2 length: 0
+data: null
+
+Random value: 0.12979 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 0  seqnum: 2 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 3  seqnum: 3 length: 0
+data: null
+
+Random value: 0.108809 and drop probability set to: 0
+Emulator SENT this packet to the server (localhost) w/contents: 
+type: 3  seqnum: 3 length: 0
+data: null
+
+----------------------------------------------------------
+
+Emulator RECEIVED a packet with the following contents:
+type: 2  seqnum: 3 length: 0
+data: null
+
+Random value: 0.998925 and drop probability set to: 0
+Emulator SENT this packet to client (localhost) w/contents: 
+type: 2  seqnum: 3 length: 0
+data: null
+
